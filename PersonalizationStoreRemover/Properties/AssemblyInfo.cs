@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("PersonalizationStoreRemover")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Little tool to delete or achive personalisationstore.xml file created by Dynamics NAV Windows client")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("ArkhaLime")]
 [assembly: AssemblyProduct("PersonalizationStoreRemover")]
-[assembly: AssemblyCopyright("Copyright © ArkhaLime 2019")]
+[assembly: AssemblyCopyright("Copyright © ArkhaLime 2019-2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
